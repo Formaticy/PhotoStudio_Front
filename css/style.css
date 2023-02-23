@@ -1,4 +1,29 @@
-section{
+.catalog {
+    padding-top: 40px;
+}
+
+html {
+    width:100vw;
+    overflow-x:hidden; 
+    /* при появлении полосы прокрутки все съезжало, это исправило */
+}
+
+.card{
+    width: 18rem; 
+    height: 25rem;
+
+}
+
+.card img{
+    max-width: 286px;
+    max-height: 180px;
+}
+
+.card p{
+    height: 100px;
+    overflow: hidden;
+}
+
+.main-content{
     padding-top: 100px;
-    padding-bottom: 50px;
 }
