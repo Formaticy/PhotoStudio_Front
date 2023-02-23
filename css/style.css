@@ -8,22 +8,33 @@ html {
     /* при появлении полосы прокрутки все съезжало, это исправило */
 }
 
-.card{
-    width: 18rem; 
-    height: 25rem;
-
+.card {
+    min-height: 500px;
 }
 
-.card img{
-    max-width: 286px;
-    max-height: 180px;
-}
 
-.card p{
+.card-text {
     height: 100px;
     overflow: hidden;
+} 
+
+.card-title {
+    height: 50px;
+    overflow: hidden;
+} 
+
+
+.wrapper-img {
+    width: 415px;
+    height: 274px;
 }
 
-.main-content{
+.wrapper-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.main-content {
     padding-top: 100px;
 }
