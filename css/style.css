@@ -9,12 +9,11 @@ html {
 }
 
 .card {
-    min-height: 500px;
+    min-height: 510px;
 }
 
-
 .card-text {
-    height: 100px;
+    height: 72px;
     overflow: hidden;
 } 
 
@@ -23,9 +22,8 @@ html {
     overflow: hidden;
 } 
 
-
 .wrapper-img {
-    width: 415px;
+    width: 100%;
     height: 274px;
 }
 
