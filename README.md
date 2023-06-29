@@ -1,7 +1,7 @@
-#PhotoStudio front
+# PhotoStudio Front
 <p>Сайт написан на html/css с использованием bootstrap</p>
 <h2>Первая страница</h2>
-<img src="img/Гланвая.jpg" alt="Первая сраница">
+<img src="img/Главная.jpg" alt="Первая сраница">
 <h2>Страница каталога</h2>
 <img src="img/Каталог.jpg" alt="Каталог">
 <h2>Карточка студии</h2>
